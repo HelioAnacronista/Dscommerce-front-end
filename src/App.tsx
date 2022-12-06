@@ -5,7 +5,7 @@ function App() {
 
   return (
     
-    <Catalog></Catalog>
+    <ProductDetails></ProductDetails>
   );
 }
 

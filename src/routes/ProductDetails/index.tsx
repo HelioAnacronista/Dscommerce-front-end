@@ -38,8 +38,8 @@ export default function ProductDetails() {
             <section id="product-details-section" className="dsc-container">
                <ProductDetailsCard product={product} />
                <div className="dsc-btn-page-container">
-                  <ButtonPrimary></ButtonPrimary>
-                  <ButtonInverse></ButtonInverse>
+                  <ButtonPrimary text="Comprar"/>
+                  <ButtonInverse text="Inicio"/>
                </div>
             </section>
          </main>
